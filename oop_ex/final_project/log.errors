@@ -1,0 +1,10 @@
+
+
+2023-06-30 11:49:10 'Product' object has no attribute '_Product__prod_name'
+2023-06-30 17:12:05 'list' object has no attribute 'total_prod_income'
+2023-06-30 17:13:33 'list' object has no attribute 'total_prod_income'
+2023-06-30 17:14:52 'list' object has no attribute 'total_prod_income'
+2023-06-30 17:17:37 'list' object has no attribute 'amount_not_sold_prods'
+2023-06-30 17:22:06 object of type 'bool' has no len()
+2023-07-05 18:19:29 ProductQueries.if_catalog_num_exists() missing 1 required positional argument: 'res_len'
+2023-07-05 18:22:32 ProductQueries.if_catalog_num_exists() missing 1 required positional argument: 'valid_len'
